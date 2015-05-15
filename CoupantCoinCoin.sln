@@ -1,0 +1,30 @@
+ï»¿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoupantCoinCoin", "CoupantCoinCoin.csproj", "{6B21F9A8-3491-426C-BE02-837197CE6967}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CSCSetup", "..\CSCSetup\CSCSetup.vdproj", "{04A72C87-C2B1-4E1A-AA4F-8FD1DB9019E4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSoinCSoin", "CSoinCSoin", "{EDE78292-E502-424F-B6DC-1D4C1CC7970B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B21F9A8-3491-426C-BE02-837197CE6967}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B21F9A8-3491-426C-BE02-837197CE6967}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B21F9A8-3491-426C-BE02-837197CE6967}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B21F9A8-3491-426C-BE02-837197CE6967}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04A72C87-C2B1-4E1A-AA4F-8FD1DB9019E4}.Debug|Any CPU.ActiveCfg = Debug
+		{04A72C87-C2B1-4E1A-AA4F-8FD1DB9019E4}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6B21F9A8-3491-426C-BE02-837197CE6967} = {EDE78292-E502-424F-B6DC-1D4C1CC7970B}
+		{04A72C87-C2B1-4E1A-AA4F-8FD1DB9019E4} = {EDE78292-E502-424F-B6DC-1D4C1CC7970B}
+	EndGlobalSection
+EndGlobal

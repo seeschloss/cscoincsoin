@@ -1,0 +1,32 @@
+<!--
+
+  phplop-tribune.dtd 1.0 2003/05/21
+  by Christophe Couronne - <xof@altern.org>
+
+  Inpired of
+  Dacode dtd
+  written by Arnaud willem - <dacode@woof.lu>
+
+  itself based on :
+  RSS DTD originally created by
+  Lars Marius Garshol - larsga@ifi.uio.no.
+
+-->
+<!ELEMENT board (post*)>
+<!ATTLIST board site CDATA #REQUIRED>
+
+<!ELEMENT post (info,message,login)>
+<!ATTLIST post
+	  time    CDATA #REQUIRED
+	  id      CDATA #REQUIRED>
+
+<!ELEMENT message (#PCDATA|a|u|b|s|tt|i)*>
+<!ELEMENT info (#PCDATA)>
+<!ELEMENT login (#PCDATA)>
+<!ELEMENT s (#PCDATA|a|b|u|tt|i|s)*>
+<!ELEMENT b (#PCDATA|a|b|u|tt|i|s)*>
+<!ELEMENT u (#PCDATA|a|b|u|tt|i|s)*>
+<!ELEMENT tt (#PCDATA|a|b|u|tt|i|s)*>
+<!ELEMENT i (#PCDATA|a|b|u|tt|i|s)*>
+<!ELEMENT a (#PCDATA)>
+<!ATTLIST a href CDATA #REQUIRED>

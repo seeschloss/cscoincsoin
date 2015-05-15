@@ -1,0 +1,10 @@
+/home/seeschloss/src/cscs/obj/Debug/CsoinCsoin.About.resources
+/home/seeschloss/src/cscs/obj/Debug/CsoinCsoin.ConfigurationForm.resources
+/home/seeschloss/src/cscs/obj/Debug/CsoinCsoin.CsoinCsoin.resources
+/home/seeschloss/src/cscs/obj/Debug/CsoinCsoin.Properties.Resources.resources
+/home/seeschloss/src/cscs/obj/Debug/CsoinCsoin.TotozFenêtre.resources
+/home/seeschloss/src/cscs/bin/Debug/C#oinC#oin.exe.mdb
+/home/seeschloss/src/cscs/bin/Debug/C#oinC#oin.exe
+/home/seeschloss/src/cscs/obj/Debug/C#oinC#oin.exe
+/home/seeschloss/src/cscs/obj/Debug/C#oinC#oin.exe.mdb
+/home/seeschloss/src/cscs/bin/Debug/Nini.dll
